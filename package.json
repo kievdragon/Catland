@@ -1,12 +1,17 @@
 {
     "name": "Catland",
-    "description": "Динамический мультиплеерный платформер с котиками :3",
+    "description": "Dynamic multiplayer platform game with cats",
     "version": "0.0.1",
     "author": "KievDragon",
     "license": "MIT License",
     "dependencies": {
         "express": "^4.16.2",
         "node": "^9.3.0",
+        "node-modules": "^1.0.1",
         "node-static": "^0.7.10"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/kievdragon/Catland.git"
     }
 }
